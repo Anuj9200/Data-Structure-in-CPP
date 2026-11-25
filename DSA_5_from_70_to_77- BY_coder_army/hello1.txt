@@ -1,0 +1,4 @@
+Original Data : 
+5 8 6 9 6 
+ Sorted Data : 
+5 6 6 8 9 
